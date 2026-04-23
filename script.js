@@ -6,7 +6,7 @@ const CONFIG = {
     // Nome da sua empresa (Título da página)
     businessName: 'Roda Rico - Sua experiência!',
     // URL do seu Google Apps Script (Novo Backend Gratuito)
-    backendUrl: 'https://script.google.com/macros/s/AKfycbyIRJ-f--5rsmipXuXeDjmzDBpyFdJXtkjAwuMnTAvmq-2bqA4wSBcR29tXCdzcg1_G/exec',
+    backendUrl: 'https://script.google.com/macros/s/AKfycbzhLftFxO38O8v_KqAzSOCeKA4MeaZ1LLDJ08ulBsdSu_x4DZvulvgmSF3IH6Cem-vn/exec',
 
     // URL da sua página de avaliação do Google (4-5 estrelas)
     // URL da sua página de avaliação do Google (4-5 estrelas)
